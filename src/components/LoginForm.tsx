@@ -85,9 +85,9 @@ export default function LoginForm() {
         <p className="text-sm text-gray-700">
           <strong>Demo Credentials:</strong>
           <br />
-          Email: test@example.com
+          Email: Mahi@example.com
           <br />
-          Password: test123456
+          Password: Sefali
         </p>
       </div>
     </div>
